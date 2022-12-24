@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhishekjena93
 - 👀 I’m interested in ...Web Development & Back-End with New Techs
-- 🌱 I’m currently learning ...Front-End languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently having Full Stack Developer Skills MERN STACK 
+- 💞️ I’m looking to collaborate on ...MERN & MEAN Stack 
+- 📫 How to reach me ... abhishekjena93@gmail.com
 mail me at alphalife.style07@gmail.com
    (or)
 abhishekjena93@gmail.com
